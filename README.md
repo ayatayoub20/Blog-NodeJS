@@ -8,19 +8,6 @@ Blog Node.js Project
 🔍 Dynamic search functionality for finding posts.
 🎨 Clean and responsive UI with EJS templates.
 
-# Folder Structure 📂
-Blog-NodeJS/
-├── public/             # Static files (CSS, JS, Images)
-├── server/             # Server-side code
-│   ├── config/         # Configuration files
-│   ├── helpers/        # Helper functions
-│   ├── models/         # Database models
-│   ├── routes/         # API and web routes
-├── views/              # EJS templates
-├── .env                # Environment variables
-├── app.js              # Main application file
-├── package.json        # Node.js dependencies
-└── README.md           # Project documentation
 
 # Technologies Used 🧰
 Node.js - Backend runtime environment.
